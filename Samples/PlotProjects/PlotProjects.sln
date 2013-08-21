@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJSON", "TestJSON\TestJSON.csproj", "{39EC2FD2-1221-41E5-9349-B0CFBC886160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlotLibrary", "..\..\Libraries\PlotLibrary\PlotLibrary.csproj", "{56311535-CC04-47D5-845F-A92E2D527262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39EC2FD2-1221-41E5-9349-B0CFBC886160}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{39EC2FD2-1221-41E5-9349-B0CFBC886160}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{39EC2FD2-1221-41E5-9349-B0CFBC886160}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{39EC2FD2-1221-41E5-9349-B0CFBC886160}.Debug|x86.ActiveCfg = Debug|x86
+		{39EC2FD2-1221-41E5-9349-B0CFBC886160}.Debug|x86.Build.0 = Debug|x86
+		{39EC2FD2-1221-41E5-9349-B0CFBC886160}.Release|Any CPU.ActiveCfg = Release|x86
+		{39EC2FD2-1221-41E5-9349-B0CFBC886160}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{39EC2FD2-1221-41E5-9349-B0CFBC886160}.Release|Mixed Platforms.Build.0 = Release|x86
+		{39EC2FD2-1221-41E5-9349-B0CFBC886160}.Release|x86.ActiveCfg = Release|x86
+		{39EC2FD2-1221-41E5-9349-B0CFBC886160}.Release|x86.Build.0 = Release|x86
+		{56311535-CC04-47D5-845F-A92E2D527262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56311535-CC04-47D5-845F-A92E2D527262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56311535-CC04-47D5-845F-A92E2D527262}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{56311535-CC04-47D5-845F-A92E2D527262}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{56311535-CC04-47D5-845F-A92E2D527262}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{56311535-CC04-47D5-845F-A92E2D527262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56311535-CC04-47D5-845F-A92E2D527262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56311535-CC04-47D5-845F-A92E2D527262}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{56311535-CC04-47D5-845F-A92E2D527262}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{56311535-CC04-47D5-845F-A92E2D527262}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
